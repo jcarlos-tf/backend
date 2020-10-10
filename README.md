@@ -9,3 +9,7 @@ libraries used:
     "nodemon": "^2.0.4"
 
 the postman file is in the repository
+
+
+
+to save your data, you just need to create your mongodb database and you should define it in .env
