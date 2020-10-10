@@ -7,3 +7,5 @@ libraries used:
     "express": "^4.17.1",
     "mongoose": "^5.10.9",
     "nodemon": "^2.0.4"
+
+the postman file is in the repository
