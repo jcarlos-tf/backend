@@ -8,3 +8,4 @@ router.get("/get-favorites", favoritesController.getFavorites);
 
 module.exports = router;
 //cambios agregados ejemplos
+//pull request ejemplos
