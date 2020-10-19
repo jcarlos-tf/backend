@@ -7,4 +7,6 @@ router.post("/create", favoritesController.createFavorites);
 router.get("/get-favorites", favoritesController.getFavorites);
 
 module.exports = router;
-//ejemplo de pull request desde sourcetree 2
+//cambios agregados ejemplos
+//pull request ejemplos
+//pull
