@@ -15,7 +15,7 @@ const favoritesSchema = new Schema(
     timestamps: true,
   }
 );
-
+//ejemplo de craecion de coleccion mondgodb
 const model = mongose.model("favorites", favoritesSchema);
 
 module.exports = model;
